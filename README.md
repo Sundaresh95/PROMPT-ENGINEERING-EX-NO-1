@@ -4,43 +4,15 @@
 .     Experiment:
 Develop a comprehensive report for the following exercises:
 
-## 1. Explain the foundational concepts of Generative AI.
-Artificial Intelligence (AI) is a branch of computer science that enables machines to perform tasks that normally require human intelligence such as learning, reasoning, and decision-making. A major advancement in AI is Generative AI, which focuses on creating new content rather than just analyzing existing data.
+1.     Explain the foundational concepts of Generative AI.
 
-Generative AI has gained massive importance in recent years due to its ability to generate human-like text, realistic images, music, and even code. Technologies like ChatGPT and Gemini are examples of how powerful AI has become.
+2.     2024 AI tools.
 
-This report explains the fundamentals of Generative AI, Large Language Models (LLMs), their architecture, applications, and future impact.
+3.     The Transformer Architecture in Generative AI and Its Applications
 
-## 2. 2024 AI tools.
-Generative AI refers to systems that can create new data similar to the data they were trained on.
+4.     Impact of Scaling in Generative AI and LLMs
 
-# Key Concepts:
-# 2.1 Data Learning:
-
-Generative AI models learn patterns from large datasets such as books, images, and videos.
-
- ##2.2 Probability-Based Generation:
- 
-These models predict the next element (word, pixel, etc.) based on probability.
-
-# 2.3 Neural Networks:
-
-Deep learning models simulate the human brain using layers of neurons.
-
-# 2.4 Training Process
-
-Input data is fed into the model
-Model learns patterns
-Outputs are generated
-#Example:
-
-If trained on English text, the model can generate meaningful sentences automatically.
-
-4.     The Transformer Architecture in Generative AI and Its Applications
-
-5.     Impact of Scaling in Generative AI and LLMs
-
-6.     Explain what an LLM is and how it is built.
+5.     Explain what an LLM is and how it is built.
    
 # Algorithm: Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview) 
