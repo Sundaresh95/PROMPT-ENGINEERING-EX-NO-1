@@ -15,12 +15,28 @@ Develop a comprehensive report for the following exercises:
 5.     Explain what an LLM is and how it is built.
    
 # Algorithm: Step 1: Define Scope and Objectives
-1.1 Identify the goal of the report (e.g., educational, research, tech overview) 
+## 1.1 Identify the goal of the report (e.g., educational, research, tech overview) 
 
-1.2 Set the target audience level (e.g., students, professionals)
+Determine whether the report is:
 
-1.3 Draft a list of core topics to cover
+Educational
+Research-oriented
+Technical overview
+## 1.2 Set the target audience level (e.g., students, professionals)
 
+Identify the audience level:
+
+Students
+Professionals
+Researchers
+## 1.3 Draft a list of core topics to cover
+
+Prepare a list of topics:
+
+    AI & ML basics
+    Generative AI
+LLMs
+Applications & trends
 Step 2: Create Report Skeleton/Structure
 
 2.1 Title Page
