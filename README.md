@@ -20,26 +20,33 @@ Develop a comprehensive report for the following exercises:
 Determine whether the report is:
 
 Educational
+
 Research-oriented
+
 Technical overview
 ## 1.2 Set the target audience level (e.g., students, professionals)
 
 Identify the audience level:
 
 Students
+
 Professionals
+
 Researchers
 ## 1.3 Draft a list of core topics to cover
 
 Prepare a list of topics:
 
-    AI & ML basics
-    Generative AI
-LLMs
-Applications & trends
-Step 2: Create Report Skeleton/Structure
+AI & ML basics
 
-2.1 Title Page
+Generative AI
+
+LLMs
+
+Applications & trends
+## Step 2: Create Report Skeleton/Structure
+
+##2.1 Title Page
 
 2.2 Abstract or Executive Summary
 
