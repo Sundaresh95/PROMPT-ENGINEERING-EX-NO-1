@@ -4,7 +4,7 @@
 .     Experiment:
 Develop a comprehensive report for the following exercises:
 
-1. Explain the foundational concepts of Generative AI.
+## 1. Explain the foundational concepts of Generative AI.
 Artificial Intelligence (AI) is a branch of computer science that enables machines to perform tasks that normally require human intelligence such as learning, reasoning, and decision-making. A major advancement in AI is Generative AI, which focuses on creating new content rather than just analyzing existing data.
 
 Generative AI has gained massive importance in recent years due to its ability to generate human-like text, realistic images, music, and even code. Technologies like ChatGPT and Gemini are examples of how powerful AI has become.
