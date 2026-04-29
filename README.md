@@ -11,7 +11,29 @@ Generative AI has gained massive importance in recent years due to its ability t
 
 This report explains the fundamentals of Generative AI, Large Language Models (LLMs), their architecture, applications, and future impact.
 
-3.     2024 AI tools.
+## 2. 2024 AI tools.
+Generative AI refers to systems that can create new data similar to the data they were trained on.
+
+Key Concepts
+2.1 Data Learning
+
+Generative AI models learn patterns from large datasets such as books, images, and videos.
+
+2.2 Probability-Based Generation
+
+These models predict the next element (word, pixel, etc.) based on probability.
+
+2.3 Neural Networks
+
+Deep learning models simulate the human brain using layers of neurons.
+
+2.4 Training Process
+Input data is fed into the model
+Model learns patterns
+Outputs are generated
+Example
+
+If trained on English text, the model can generate meaningful sentences automatically.
 
 4.     The Transformer Architecture in Generative AI and Its Applications
 
